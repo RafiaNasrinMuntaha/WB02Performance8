@@ -1,0 +1,19 @@
+/*this is comment*/
+        p{
+            color: indianred;
+        }
+        .divClass{
+            background-color: yellowgreen;
+            color: white;
+            border: 5px solid yellow;
+            
+        }
+        #p1{
+            background-color: lightblue;
+        }
+        
+h1{
+    color:lawngreen;
+    !important;
+    
+}
